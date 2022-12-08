@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 15px;
+    background-color: #eee;
+    width: 100%;
+}
+.ppp{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.pp{
+    margin-right: 60px;
+}
+li{
+    line-height: 25px;
+}
+header{
+    text-align: center;    
+}
+.aboutme{
+    text-align: center;
+}
+.links{
+    text-align: center;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+}
